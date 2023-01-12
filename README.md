@@ -19,6 +19,7 @@ Have your daily essentials delivered right to you in minutes! Bullseye is an eco
 
 ## Video walkthrough :movie_camera:
 
+https://www.youtube.com/watch?v=2AxPUj-tROQ
 
 ## Link to bullseye
 
