@@ -17,10 +17,6 @@
 
 Have your daily essentials delivered right to you in minutes! Bullseye is an ecommerce store inspired by the popular Gopuff delivery service. Browse through hundreds of products and checkout within seconds. Don't want to checkout right away? Your cart will be waiting for you when you come back.
 
-## Video walkthrough :movie_camera:
-
-https://www.youtube.com/watch?v=2AxPUj-tROQ
-
 ## Link to bullseye
 
 https://snack-website2.herokuapp.com/
