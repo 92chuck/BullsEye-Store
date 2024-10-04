@@ -17,22 +17,6 @@
 
 Have your daily essentials delivered right to you in minutes! Bullseye is an ecommerce store inspired by the popular Gopuff delivery service. Browse through hundreds of products and checkout within seconds. Don't want to checkout right away? Your cart will be waiting for you when you come back.
 
-## Link to bullseye
-
-https://snack-website2.herokuapp.com/
-
-To check out admin features:</br>
-Email: jack@gmail.com
-</br>
-Password: 123
-
-For stripe checkout, please use 4242424242424242 as card to pay.</br>
-For paypal checkout, please use these credentials to log in:</br>
-Email: sb-BUYER8br474317161919@personal.example.com</br>
-Password: ]N1$<E$p
-
-Have fun editing/adding/deleting.
-
 ## Key Features :key:
 
 User:
